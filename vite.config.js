@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/ReactJS-Hooks/',
+  base: '/Task25-ReactJS-Hooks/',
 })
